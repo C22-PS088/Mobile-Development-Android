@@ -3,16 +3,20 @@ Sa-lindungi is an android application that can scan an endangered animal image a
 
 ## How to install this App from zip file:
 1. Download the zip file 
-2. extract the zip file
-3. open the file on your android studio
-4. wait for gradle build and indexing
-5. click run on your android studio
+2. Extract the zip file
+3. Open the file on your android studio
+4. Wait for gradle build and indexing
+5. Click run on your android studio
 
 ## How to install this App from clone repository:
-1. copy the link of this repository
-2. paste the link to your android studio
-3. click the clone button
-4. wait for gradle build and indexing
-5. click run on your android studio
+1. Copy the link of this repository
+2. Paste the link to your android studio
+3. Click the clone button
+4. Wait for gradle build and indexing
+5. Click run on your android studio
 
-Note: please make sure your emulator or android device is connected to the internet
+### Note
+1. Please only use the picture of the 6 endagered animal (beruang Madu, Macan Tutul Jawa, Bekantan, Burung Rangkong Badak, Gajah Asia, and Tapir Asia) inside the app for the scanning feature due to the app limitation.
+2. Please make sure your emulator or android device is connected to the internet.
+
+
